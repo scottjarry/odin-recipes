@@ -1,0 +1,40 @@
+/* Stylesheet for Recipes Project */
+
+* {
+    background-color: rgb(150, 150, 150);
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(150, 150, 150);
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(255, 255, 255);
+    margin-right: 87%;
+}
+
+h3 {
+    background-color: rgb(255, 255, 255);
+    margin-right: 95%;
+}
+
+li {
+    color:rgb(255, 255, 255);
+}
+
+p {
+    color:rgb(255, 255, 255);
+    margin-left: 3%;
+    margin-right: 70%;
+}
+
+.pretty-links {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.center {
+    text-align: center;
+}
